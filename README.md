@@ -1,6 +1,6 @@
 # recipe-app
 
-##About:
+## About:
 
 - App that allows user to enter recipe data including name, ingredients, cooking time.
 - Class functions calculate difficulty based on input data.
